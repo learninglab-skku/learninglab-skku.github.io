@@ -1,6 +1,7 @@
 ---
 title: Inequalities
 date: 2020-03-13
+comments: true
 categories: 
 - Math
 tags:
